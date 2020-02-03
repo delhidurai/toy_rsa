@@ -1,7 +1,4 @@
-# Name Delhi Durai
-# Student ID - 948639812
-# Class CS 510
-# Rust Home work 2 - RSA Encryption and Decryption.
+
 
 ## Step 1:-
 ## Implement Utility crate that uses toy_rsa_lib and implement RSA encryption and decryption
