@@ -1,6 +1,6 @@
 // Utility crate that will enable the user to Encrypt and Decrypt a given message.
 // Author Delhi Durai
-// PSU ID 948639812
+
 //
 use toy_rsa_lib::*;
 
